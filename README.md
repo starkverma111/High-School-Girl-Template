@@ -4,7 +4,7 @@
 
 Take a look at my most recent project - a website I am currently developing. It's a High School Girl | Bootstrap 5.3 Template Components | Stay tuned for the complete template release.
 
-#### https://starkverma111.github.io/bootstrap-Social/
+#### https://starkverma111.github.io/High-School-Girl-Template/
 
 .
 
